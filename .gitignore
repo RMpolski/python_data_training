@@ -1,0 +1,7 @@
+# Don't include all the heavy-duty packages
+.venv
+
+# PDM-related ignores
+.pdm.toml
+.pdm-python
+.pdm-build
